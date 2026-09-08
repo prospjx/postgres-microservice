@@ -1,0 +1,13 @@
+# Secrets
+*secrets.yaml
+*.secret.yaml
+
+# Data files
+*.sql
+*.dump
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
